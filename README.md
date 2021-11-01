@@ -17,6 +17,7 @@ I'm a software engineer 👩‍💻 specialized in full stack web development. I
 - 📫 Ask me about JavaScript, CSS/SCSS, React, NodeJS, Web APIs and web development in general.
 - ⌨️ I enjoy doing coding challenges, and I have a repo where you can see my solutions to a lot of [Codewars katas](https://github.com/nibble-4bits/my-codewars-solutions).
 - 💬 I'm a speaker of both Spanish and English.
+- 📝 Check out my [résumé](https://drive.google.com/file/d/1ftGcqFk4Mz5KKAuB51kOKIe3u2mr_1wQ/view?usp=sharing).
 - 🤔 Fun fact: I love listening to 🎷 jazz music, especially when I want to relax.
 
 ### ⭐ Personal Projects
@@ -25,7 +26,7 @@ Take a look at some personal projects I have created for fun and learning:
 
 - 🧩 [Sudoku Solver Visualizer](https://github.com/nibble-4bits/Sudoku-Solver-Visualizer)
 - 📊 [COVID-19 stats map](https://github.com/nibble-4bits/COVID-19-Map)
-- 🕒 [Analog Clock using only vanilla JavaScript](https://github.com/nibble-4bits/vanillajs-analog-clock)
+- 🕒 [Analog clock using only vanilla JavaScript](https://github.com/nibble-4bits/vanillajs-analog-clock)
 - 🎨 [Excel pixel art generator](https://github.com/nibble-4bits/excel-pixel-art)
 - 🧮 [Algorithm that computes π, digit-by-digit](https://github.com/nibble-4bits/py-spigot-algorithm)
 - 💻 [Hexdump command line tool in Go](https://github.com/nibble-4bits/go-hexdump)

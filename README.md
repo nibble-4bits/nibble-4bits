@@ -9,11 +9,10 @@ I'm a software engineer 👩‍💻 specialized in full stack web development. I
 [![LinkedIn badge](https://img.shields.io/badge/-luisdeandacuellar-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdeandacuellar)](https://www.linkedin.com/in/luisdeandacuellar)
 [![GMail badge](https://img.shields.io/badge/-ldeandac16-red?style=flat&logo=gmail&logoColor=white&link=mailto:ldeandac16@gmail.com)](mailto:ldeandac16@gmail.com)
 [![Twitter badge](https://img.shields.io/badge/-nibble__4bits-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nibble_4bits)](https://twitter.com/nibble_4bits)
-[![Telegram badge](https://img.shields.io/badge/-@LuisDeAnda-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/LuisDeAnda)](https://t.me/LuisDeAnda)
 
 ### ⚡ Some Quick Facts
 
-- 💡 I'm currently learning about **serverless architectures** and **AWS services**.
+- 💡 I'm currently learning [Go](https://go.dev/).
 - 📫 Ask me about JavaScript, CSS/SCSS, React, NodeJS, Web APIs and web development in general.
 - ⌨️ I enjoy doing coding challenges, and I have a repo where you can see my solutions to a lot of [Codewars katas](https://github.com/nibble-4bits/my-codewars-solutions).
 - 💬 I'm a speaker of both Spanish and English.

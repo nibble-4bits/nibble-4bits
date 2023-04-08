@@ -12,7 +12,7 @@ I'm a software engineer 👩‍💻 specialized in full stack web development. I
 
 ### ⚡ Some Quick Facts
 
-- 👨‍💻 I'm currently working on an implementation of the Amazon States Language: [aws-local-stepfunctions](https://github.com/nibble-4bits/aws-local-stepfunctions).
+- 👨‍💻 I'm currently working on a TypeScript implementation of the Amazon States Language: [aws-local-stepfunctions](https://github.com/nibble-4bits/aws-local-stepfunctions).
 - 📫 Ask me about JavaScript, CSS/SCSS, React, NodeJS, Web APIs and web development in general.
 - ⌨️ I enjoy doing coding challenges, and I have a repo where you can see my solutions to a lot of [Codewars katas](https://github.com/nibble-4bits/my-codewars-solutions).
 - 💬 I'm a speaker of both Spanish and English.

@@ -252,5 +252,3 @@ Take a look at some personal projects I have created for fun and learning:
 ---
 
 ![nibble-4bits GitHub stats](https://github-readme-stats.vercel.app/api?username=nibble-4bits&show_icons=true&count_private=true)
-
-![Visitors badge](https://visitor-badge.glitch.me/badge?page_id=nibble-4bits.nibble-4bits)

@@ -6,9 +6,8 @@ I'm a software engineer 👩‍💻 specialized in full stack web development. I
 
 ### 🔗 Connect with me
 
-[![LinkedIn badge](https://img.shields.io/badge/-luisdeandacuellar-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luisdeandacuellar)](https://www.linkedin.com/in/luisdeandacuellar)
+[![LinkedIn badge](https://img.shields.io/badge/-ldeandac-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ldeandac)](https://www.linkedin.com/in/ldeandac)
 [![GMail badge](https://img.shields.io/badge/-ldeandac16-red?style=flat&logo=gmail&logoColor=white&link=mailto:ldeandac16@gmail.com)](mailto:ldeandac16@gmail.com)
-[![Twitter badge](https://img.shields.io/badge/-nibble__4bits-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nibble_4bits)](https://twitter.com/nibble_4bits)
 
 ### ⚡ Some Quick Facts
 
